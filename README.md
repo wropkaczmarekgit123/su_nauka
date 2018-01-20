@@ -1,4 +1,5 @@
-# Git Nauka
+
+jem # Git Nauka
 ## sekcja 1
 
 Projekt do nauki GIT-A i początki pythona.
@@ -22,3 +23,4 @@ She said that
 [GitHub](htttp://google.com)
 *cos tam
 kolerjna rzecz
+*ftttdd
