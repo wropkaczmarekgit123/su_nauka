@@ -1,4 +1,4 @@
-
+ala ma kota
 jem # Git Nauka
 ## sekcja 1
 
